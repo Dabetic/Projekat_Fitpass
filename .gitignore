@@ -1,0 +1,6 @@
+*.json
+*.deb
+*.rpm
+*.zip
+Dockerfile
+*.xml
